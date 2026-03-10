@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23648804579",
+    "project_id": "smart-dc227",
+    "storage_bucket": "smart-dc227.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23648804579:android:5624fe2ff2e817347cafd6",
+        "android_client_info": {
+          "package_name": "com.example.smartschoolapp_fixed_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKLjny10CMwEdhBx3uvkvLUvooG8OLno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
